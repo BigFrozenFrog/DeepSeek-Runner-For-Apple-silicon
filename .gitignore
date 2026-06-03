@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+.DS_Store
+Package.resolved
+weights/
+*.safetensors
+*.gguf
